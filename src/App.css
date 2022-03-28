@@ -1,0 +1,17 @@
+.leadTable{
+  width: 80%;
+}
+
+.dateForm {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  padding-top: 25px;
+  padding-bottom: 25px;
+}
+
+.loginForm {
+  display: flex;
+  justify-content: center;
+  margin-top: 50px;
+}
